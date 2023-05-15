@@ -1,7 +1,7 @@
 {
   "name": "s-a-i-f-a-l-i_resume",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://S-a-i-f-A-l-i.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
